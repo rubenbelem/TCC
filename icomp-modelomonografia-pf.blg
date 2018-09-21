@@ -13,6 +13,8 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: referencias.bib
+Warning--you've nested cross references--entry "conf/kdd/2016"
+refers to entry "conf/kdd/2016", which also refers to something
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -22,44 +24,45 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 2 entries,
+You've used 8 entries,
             6714 wiz_defined-function locations,
-            1205 strings with 9657 characters,
-and the built_in function-call counts, 1564 in all, are:
-= -- 244
-> -- 16
-< -- 1
-+ -- 51
-- -- 5
-* -- 77
-:= -- 267
-add.period$ -- 5
-call.type$ -- 2
-change.case$ -- 10
-chr.to.int$ -- 5
-cite$ -- 1
-duplicate$ -- 45
-empty$ -- 104
-format.name$ -- 23
-if$ -- 369
+            1258 strings with 11165 characters,
+and the built_in function-call counts, 12746 in all, are:
+= -- 1552
+> -- 230
+< -- 293
++ -- 415
+- -- 68
+* -- 802
+:= -- 1603
+add.period$ -- 38
+call.type$ -- 8
+change.case$ -- 83
+chr.to.int$ -- 17
+cite$ -- 7
+duplicate$ -- 1156
+empty$ -- 558
+format.name$ -- 337
+if$ -- 2642
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 30
-newline$ -- 12
-num.names$ -- 5
-pop$ -- 53
+missing$ -- 138
+newline$ -- 43
+num.names$ -- 36
+pop$ -- 197
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 32
 quote$ -- 0
-skip$ -- 113
+skip$ -- 1234
 stack$ -- 1
-substring$ -- 67
-swap$ -- 19
-text.length$ -- 0
+substring$ -- 605
+swap$ -- 441
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 3
 warning$ -- 0
-while$ -- 8
+while$ -- 64
 width$ -- 0
-write$ -- 24
+write$ -- 129
+(There was 1 warning)

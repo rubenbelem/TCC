@@ -1,21 +1,21 @@
 # Fdb version 3
-["bibtex icomp-modelomonografia-pf"] 1537479003 "icomp-modelomonografia-pf.aux" "icomp-modelomonografia-pf.bbl" "icomp-modelomonografia-pf" 1537479005
+["bibtex icomp-modelomonografia-pf"] 1537494581 "icomp-modelomonografia-pf.aux" "icomp-modelomonografia-pf.bbl" "icomp-modelomonografia-pf" 1537494584
   "c:/texlive/2018/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib" 1537469432 5396 4eb260dac60f150ae608d45252853090 ""
   "c:/texlive/2018/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1537469432 60064 6469892b646cc99dbd8ecd5e965537d8 ""
-  "icomp-modelomonografia-pf.aux" 1537479004 5228 def1a0fe4d9bbdc44fe4f9091eaa8764 ""
-  "referencias.bib" 1422664493 12073 c52cec6b85241e044abe595cdbf817ee ""
+  "icomp-modelomonografia-pf.aux" 1537494582 5634 1f1f58b08f72a0cdfffb72abb87b3ea9 ""
+  "referencias.bib" 1537492441 5165 fe1e7a551f5f05c4f7327e4118937dc6 ""
   (generated)
   "icomp-modelomonografia-pf.bbl"
   "icomp-modelomonografia-pf.blg"
-["makeindex icomp-modelomonografia-pf.idx"] 1537478523 "icomp-modelomonografia-pf.idx" "icomp-modelomonografia-pf.ind" "icomp-modelomonografia-pf" 1537479005
-  "icomp-modelomonografia-pf.idx" 1537479004 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex icomp-modelomonografia-pf.idx"] 1537484466 "icomp-modelomonografia-pf.idx" "icomp-modelomonografia-pf.ind" "icomp-modelomonografia-pf" 1537494584
+  "icomp-modelomonografia-pf.idx" 1537494582 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "icomp-modelomonografia-pf.ind"
   "icomp-modelomonografia-pf.ilg"
-["pdflatex"] 1537479003 "c:/Users/Ruben/TCC/icomp-modelomonografia-pf.tex" "icomp-modelomonografia-pf.pdf" "icomp-modelomonografia-pf" 1537479005
+["pdflatex"] 1537494581 "c:/Users/Ruben/TCC/icomp-modelomonografia-pf.tex" "icomp-modelomonografia-pf.pdf" "icomp-modelomonografia-pf" 1537494584
   "abntex2/abntex2.cls" 1423076077 42827 ea0b870f9acda62e31fd4d2ec5cc3bfe ""
   "abntex2/ufam-logo.jpg" 1422667418 47636 825ecfdafe6c70a770fd997f86f02268 ""
-  "c:/Users/Ruben/TCC/icomp-modelomonografia-pf.tex" 1537478996 18623 96500b47658ecbe33fd46c58ddcee9a7 ""
+  "c:/Users/Ruben/TCC/icomp-modelomonografia-pf.tex" 1537494578 19198 503083e2b4e46d4344d4031a408c4848 ""
   "c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1537471422 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1537472176 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/adobe/bookman/pbkd8r.tfm" 1537470332 2652 fbb260af94169655e2163df863ca2995 ""
@@ -35,7 +35,6 @@
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1537470650 1124 6c73e740cf17375f03eec0ee63599741 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1537470650 1116 933a60c408fc0a863a92debe84b2d294 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1537470650 1120 8b7d695260f3cff42e636090a8002094 ""
-  "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1537469586 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "c:/texlive/2018/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb" 1537470333 44768 f7f73d132286e7860b4a7010de7f597c ""
   "c:/texlive/2018/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb" 1537470333 44934 6b22cea7b9558c69bac00cbdc55a9953 ""
   "c:/texlive/2018/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb" 1537470333 44162 e6f462fe4e2c0d41f03e92355604b703 ""
@@ -93,7 +92,6 @@
   "c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty" 1537474456 22417 1d9df1eb66848aa31b18a593099cf45c ""
   "c:/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty" 1537474457 9581 023642318cef9f4677efe364de1e2a27 ""
   "c:/texlive/2018/texmf-dist/tex/latex/psnfss/bookman.sty" 1537474936 867 876b4bfdb8297b376dfd7b9ba3a283d7 ""
-  "c:/texlive/2018/texmf-dist/tex/latex/psnfss/omspbk.fd" 1537474936 576 2f874952edcda9605933e4b6db04a3fc ""
   "c:/texlive/2018/texmf-dist/tex/latex/psnfss/t1pbk.fd" 1537474936 1226 fd3e9c2f6a1a90301d595e18ba984a8b ""
   "c:/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty" 1537475376 15542 c4cc3164fe24f2f2fbb06eb71b1da4c4 ""
   "c:/texlive/2018/texmf-dist/tex/latex/textcase/textcase.sty" 1537476134 2022 79a2c3efd954daff1698214872b6ca46 ""
@@ -105,18 +103,16 @@
   "c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1537477180 3001738 01a3fb69ba60e6d7e009ae2ba5719622 ""
   "c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1537477292 4217549 c5ce6bce3dfcce50dd0c2f61a9c3340f ""
   "c:/texlive/2018/texmf.cnf" 1537477086 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "icomp-modelomonografia-pf.aux" 1537479004 5228 def1a0fe4d9bbdc44fe4f9091eaa8764 ""
-  "icomp-modelomonografia-pf.bbl" 1537479003 556 d766743a58f4e91b343bc3e8eec3bf5d "bibtex icomp-modelomonografia-pf"
-  "icomp-modelomonografia-pf.brf" 1537479004 40 4181c7eac1d12e281d863b67b7ee27ed ""
-  "icomp-modelomonografia-pf.ind" 1537478523 0 d41d8cd98f00b204e9800998ecf8427e "makeindex icomp-modelomonografia-pf.idx"
-  "icomp-modelomonografia-pf.tex" 1537478996 18623 96500b47658ecbe33fd46c58ddcee9a7 ""
-  "icomp-modelomonografia-pf.toc" 1537479004 2129 0be8f7363e6677d6d0910af65d5a43cd ""
+  "icomp-modelomonografia-pf.aux" 1537494582 5634 1f1f58b08f72a0cdfffb72abb87b3ea9 ""
+  "icomp-modelomonografia-pf.bbl" 1537494581 2579 85ae71fc1173df73e1f247557e35cb00 "bibtex icomp-modelomonografia-pf"
+  "icomp-modelomonografia-pf.brf" 1537494582 325 3529a35542453cddc9c533fbaffedc44 ""
+  "icomp-modelomonografia-pf.ind" 1537484467 0 d41d8cd98f00b204e9800998ecf8427e "makeindex icomp-modelomonografia-pf.idx"
+  "icomp-modelomonografia-pf.tex" 1537494578 19198 503083e2b4e46d4344d4031a408c4848 ""
+  "icomp-modelomonografia-pf.toc" 1537494582 1745 9808bb8149853c751d789bfc03888c4b ""
   (generated)
+  "icomp-modelomonografia-pf.pdf"
   "icomp-modelomonografia-pf.toc"
-  "icomp-modelomonografia-pf.log"
+  "icomp-modelomonografia-pf.aux"
   "icomp-modelomonografia-pf.idx"
   "icomp-modelomonografia-pf.brf"
-  "icomp-modelomonografia-pf.lof"
-  "icomp-modelomonografia-pf.pdf"
-  "icomp-modelomonografia-pf.lot"
-  "icomp-modelomonografia-pf.aux"
+  "icomp-modelomonografia-pf.log"

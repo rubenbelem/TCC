@@ -278,38 +278,11 @@
 
 \chapter{Introdução}
 
-	A introdução é a parte inicial do texto e que possibilita uma visão geral de
-todo o trabalho, devendo constar a delimitação do assunto tratado, objetivos
-da pesquisa, motivação para o desenvolvimento da mesma e outros
-elementos necessários para situar o tema do trabalho.
-
-	\section{Contextualização ou definição do problema}
-
-		Qual o problema que você está tentando resolver através do trabalho? Quais
-		as restrições de projeto envolvidas?
-
-		Nesta seção, você deve descrever a situação ou o contexto geral referente ao
-		assunto em questão, devem constar informações atualizadas visando a
-		proporcionar maior consistência ao trabalho.
+	\section{Contextualização}
 
 	\section{Objetivos}
 
-		Os objetivos constituem a finalidade de um trabalho científico, ou seja, a
-		meta que se pretende atingir com a elaboração da pesquisa.
-
-		Podemos distinguir dois tipos de objetivos em um trabalho científico:
-
-		\begin{itemize}
-			\item Objetivos gerais – são aqueles mais amplos. São as metas de longo alcance, as contribuições que se desejam oferecer com a execução da pesquisa.
-
-			\item Objetivos específicos – são a delimitação das metas mais específicas dentro do trabalho. São elas que, somadas, conduzirão ao desfecho do objetivo geral.
-		\end{itemize}
-
-		Como os objetivos indicam ação, recomenda-se que eles sejam definidos por meio de verbos, tais como analisar, avaliar, caracterizar, discutir, diagnosticar, investigar, implantar, pesquisar, realizar, determinar, etc.
-
 	\section{Organização do Trabalho}
-
-		Nesta seção deve ser apresentado como está organizado o trabalho, sendo descrito, portanto, do que trata cada capítulo.
 
 
 % ---
@@ -317,50 +290,16 @@ elementos necessários para situar o tema do trabalho.
 % ---
 \chapter{Revisão Bibliográfica}
 
-	Este é o primeiro capítulo da parte central do trabalho, isto é, o
-desenvolvimento, a parte mais extensa de todo o trabalho. Geralmente o
-desenvolvimento é dividido em capítulos, cada um com seções e subseções,
-cujo tamanho e número de divisões variam em função da natureza do
-conteúdo do trabalho. \cite{ibge1993}
+	Muitos trabalhos encontrados na literatura abordam o problema de classificação de produtos. Alguns dos métodos clássicos de aprendizado de máquina podem ser utilizados para esse problema, como o \emph{SVM - Support Vector Machine} (Máquina de Vetores de Suporte) \cite{Joachims:1998}, \emph{K-NN - K Nearest Neighbours} (K vizinhos mais próximos) \cite{Chakrabarti:2003}, e \emph{Naive Bayes} \cite{rish2001empirical}. No entanto, as conclusões desses trabalhos apontam que utilizar desses métodos não produz um resultado tão satisfatório. Portanto, verificou-se trabalhos especificamente aplicados à classificação de produtos.
 
-	Em geral, a parte de desenvolvimento é subdividida em três capítulos:
+	A \emph{Deep Categorization Network} \cite{conf/kdd/2016}, ou \emph{DeepCN}, uma rede profunda de ponta a ponta formada por múltiplas redes neurais recorrentes (RNNs) é alimentada com metadados provindos de produtos de comércio eletrônico. A rede possui camadas totalmente conectadas e uma camada \emph{softmax}. Para cada atributo de item como nome, marca ou fabricante há uma RNN dedicada. Elas geram vetores de valor real que caracterizam a semântica das palavras, descartando assim um processo de treinamento prévio como o \emph{word2vec} \cite{mikolov2013distributed}.
 
-	\begin{itemize}
-		\item \textit{referencial ou embasamento teórico} – texto no qual se deve apresentar os aspectos teóricos, isto é, os conceitos utilizados e a definição dos mesmos; nesta parte faz-se a revisão de literatura sobre o assunto, resumindo-se os resultados de estudos feitos por outros autores, cujas obras citadas e consultadas devem constar nas referências;
+	Outra abordagem é a de uma Rede Profunda de Fusão de Níveis de Decisão \cite{ZahavyMKM16}, para classificação de produtos multimodais. Um produto multimodal no contexto desse trabalho é composto por texto e imagem, os quais são utilizados como entrada. A rede multimodal melhora a precisão \emph{Top-1\%} em uma base coletada do \emph{Walmart}. São utilizadas duas Redes Neurais Convolutivas (CNN), uma para texto e outra para imagens. A CNN de texto tem precisão maior que a de imagem quando há poucos produtos. Quando há muitos, a CNN de imagem tem melhor desempenho. Isso serviu de incentivo para combinar as saídas das duas CNNs em uma terceira rede neural de "policiamento", que aprende a escolher entre o resultado da CNN de imagem ou de texto.
 
-		\item \textit{metodologia do trabalho ou procedimentos metodológicos} – deve constar o instrumental, os métodos e as técnicas aplicados para a elaboração do trabalho;
+	\pagebreak
+	Uma vez que a abordagem deste trabalho é baseada em \emph{modelos de linguagem}, também foi realizada uma busca a respeito dessa forma de classificação. Um dos trabalhos mais recentes e que se destaca é um estudo sobre algoritmos de suavização em modelos de linguagem para categorização de itens de um comércio eletrônico \cite{ShenRMS12}. Esses algoritmos são úteis para ajustar o estimador de máxima verossimilhança. Em outras palavras, regulam alguns parâmetros do modelo para a que a escassez de dados não afete tanto o desempenho. Os modelos de linguagem geralmente designam probabilidades aos termos de uma consulta, com base em suas ocorrências nos documentos. No entanto, algumas palavras da consulta podem não existir em nenhum dos documentos. O algoritmo de suavização então determina quanto se deve descontar da massa de probabilidade das palavras da consulta que aparecem na coleção, para atribuir tal desconto às palavras ``estranhas''.
 
-		\item \textit{resultados} – devem ser apresentados, de forma objetiva, precisa e clara, tanto os resultados positivos quanto os negativos que foram obtidos com o desenvolvimento do trabalho, sendo feita uma discussão que consiste na avaliação circunstanciada, na qual se estabelecem relações, deduções e generalizações.
-	\end{itemize}
-
-	É recomendável que o número total de páginas referente à parte de desenvolvimento não ultrapasse 60 (sessenta) páginas.
-
-	\section{Seção 1}
-
-		Teste de figura:
-
-		\begin{figure}[h!]
-			\begin{center}
-			    \includegraphics[scale=0.5]{abntex2/ufam-logo}
-			\end{center}
-			\caption{\label{fig_grafico}Logo da UFAM. Retirado da Internet}
-		\end{figure}
-
-		Continuação do texto.
-
-	\section{Seção 2}
-
-		Referenciamento da figura inserida na seção anterior: 2.1
-
-	\section{Seção 3}
-
-		Seção 3
-
-	\section{Seção 4}
-
-		Seção 4
-
-
+	Analisou-se o desempenho do modelo de linguagem com cinco algoritmos de suavização: Suavização de \emph{Laplace}, de \emph{Jelinek–Mercer}, de Distribuição de \emph{Dirichlet}, de Encolhimento, e por último, o Desconto Absoluto. Os testes foram realizados com uma base de dados do \emph{eBay} que possui uma hierarquia de categorias de 7 níveis, com 34 categorias no primeiro nível, e um total de 19000 categorias ``folha'' (que não são ``pai'' de nenhuma outra categoria), com mais de 18 milhões de produtos. Dos cinco algoritmos, o que teve melhores resultados foi o da Suavização de Distribuição de \emph{Dirichlet}. Então, passou-se a considerar somente este último algoritmo no resto do trabalho. Foram analisadas também 3 tipos de influência nos resultados: a do tamanho da base de treino, do tamanho dos documentos das categorias, e da especificidade de palavras entre categorias (se as palavras entre duas categorias são pouco distintas, naturalmente a classificação se torna mais difícil).
 
 % % ---
 % % Capítulo 3

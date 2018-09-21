@@ -5,11 +5,54 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
-\bibitem[IBGE 1993]{ibge1993}
-\abntrefinfo{IBGE}{IBGE}{1993}
-{IBGE. \emph{Normas de apresenta{\c c}{\~a}o tabular}. 3. ed. Rio de Janeiro:
-  Centro de Documenta{\c c}{\~a}o e Dissemina{\c c}{\~a}o de Informa{\c
-  c}{\~o}es. Funda{\c c}{\~a}o Intituto Brasileiro de Geografia e
-  Estat{\'\i}stica, 1993. Acesso em: 21 ago 2013.}
+\bibitem[Chakrabarti 2003]{Chakrabarti:2003}
+\abntrefinfo{Chakrabarti}{CHAKRABARTI}{2003}
+{CHAKRABARTI, S. \emph{Mining the Web: Discovering Knowledge from Hypertext
+  Data}. Amsterdam: Morgan Kaufmann, 2003.}
+
+\bibitem[Ha, Pyo e Kim 2016]{conf/kdd/2016}
+\abntrefinfo{Ha, Pyo e Kim}{HA; PYO; KIM}{2016}
+{HA, J.; PYO, H.; KIM, J. Large-scale item categorization in e-commerce using
+  multiple recurrent neural networks. In:  KRISHNAPURAM, B. et al. (Ed.).
+  \emph{KDD}. ACM, 2016. p. 107--115.
+ISBN 978-1-4503-4232-2. Dispon{\'\i}vel em:
+  \url{http://dblp.uni-trier.de/db/conf/kdd/kdd2016.html\#HaPK16}.}
+
+\bibitem[Joachims 1998]{Joachims:1998}
+\abntrefinfo{Joachims}{JOACHIMS}{1998}
+{JOACHIMS, T. Text categorization with support vector machines: Learning with
+  many relevant features. In:  \emph{Proceedings of the 10th European
+  Conference on Machine Learning}. Berlin, Heidelberg: Springer-Verlag, 1998.
+  (ECML'98), p. 137--142.
+ISBN 3-540-64417-2, 978-3-540-64417-0. Dispon{\'\i}vel em:
+  \url{https://doi.org/10.1007/BFb0026683}.}
+
+\bibitem[Mikolov et al. 2013]{mikolov2013distributed}
+\abntrefinfo{Mikolov et al.}{MIKOLOV et al.}{2013}
+{MIKOLOV, T. et al. Distributed representations of words and phrases and their
+  compositionality. In:  \emph{NIPS}. Curran Associates, Inc., 2013. p.
+  3111--3119.
+Dispon{\'\i}vel em:
+  \url{http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf}.}
+
+\bibitem[Rish 2001]{rish2001empirical}
+\abntrefinfo{Rish}{RISH}{2001}
+{RISH, I. An empirical study of the naive bayes classifier. In:  IBM NEW YORK.
+  \emph{IJCAI 2001 workshop on empirical methods in artificial intelligence}.
+  [S.l.], 2001. v.~3, n.~22, p. 41--46.}
+
+\bibitem[Shen et al. 2012]{ShenRMS12}
+\abntrefinfo{Shen et al.}{SHEN et al.}{2012}
+{SHEN, D. et al. A study of smoothing algorithms for item categorization on
+  e-commerce sites.
+\emph{Neurocomputing}, v.~92, p. 54--60, 2012.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1016/j.neucom.2011.08.035}.}
+
+\bibitem[Zahavy et al. 2016]{ZahavyMKM16}
+\abntrefinfo{Zahavy et al.}{ZAHAVY et al.}{2016}
+{ZAHAVY, T. et al. Is a picture worth a thousand words? {A} deep multi-modal
+  fusion architecture for product classification in e-commerce.
+\emph{CoRR}, abs/1611.09534, 2016.
+Dispon{\'\i}vel em: \url{http://arxiv.org/abs/1611.09534}.}
 
 \end{thebibliography}
