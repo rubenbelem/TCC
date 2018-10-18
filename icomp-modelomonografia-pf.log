@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.20)  20 SEP 2018 21:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.20)  20 SEP 2018 21:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -747,10 +747,6 @@ Overfull \hbox (31.23518pt too wide) in paragraph at lines 37--37
 
 ) [5
 
-] [6
-
-] [7
-
 ]
 \tf@toc=\write6
 \openout6 = `icomp-modelomonografia-pf.toc'.
@@ -774,18 +770,18 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 471.
 ### semi simple group (level 1) entered at line 376 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 12579 strings out of 492641
- 187462 string characters out of 6133116
+ 12568 strings out of 492641
+ 187356 string characters out of 6133116
  358658 words of memory out of 5000000
- 16238 multiletter control sequences out of 15000+600000
- 26074 words of font info for 83 fonts, out of 8000000 for 9000
+ 16234 multiletter control sequences out of 15000+600000
+ 25881 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,12n,38p,1096b,4212s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,38p,1096b,4205s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on icomp-modelomonografia-pf.pdf (8 pages, 111443 bytes).
+Output written on icomp-modelomonografia-pf.pdf (6 pages, 108937 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
- 10318 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 10302 words of extra memory for PDF output out of 12000 (max. 10000000)
 
